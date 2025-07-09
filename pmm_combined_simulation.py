@@ -1,4 +1,3 @@
-# --- 1. Install dependencies if needed (uncomment if running in Colab) ---
 # !pip install numpy==1.26.4 pandas_ta ccxt matplotlib
 
 import pandas as pd
@@ -126,4 +125,3 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
-print("Simulation complete. All features required by the assignment are demonstrated in this script.")
